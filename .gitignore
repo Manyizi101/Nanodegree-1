@@ -18,3 +18,7 @@
 *.data-3
 
 *.osm
+
+*.docx
+
+MongoDB/data-wrangle-openstreetmaps-data/
