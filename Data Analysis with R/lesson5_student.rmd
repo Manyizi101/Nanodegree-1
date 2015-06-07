@@ -290,7 +290,6 @@ ggpairs(pf_subset[sample.int(nrow(pf_subset), 1000), ])
 
 with(pf.sample, cor.test(friendships_initiated,friend_count))
 with(pf.sample, cor.test(age, mobile_likes))
-with(pf.sample, cor.test(
 ```
 
 
